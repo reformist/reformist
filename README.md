@@ -9,7 +9,7 @@ I'm Nicholas Djedjos, a software and data analytics engineer interested in the i
 - 🔭 I’m currently working on developing a software application to help doctors spend more time with patients.
 - 🌱 I’m currently learning SQL, dynamic programming algorithms for gene read mapping, and the mathematics behind PCA, t-SNE, and u-MAP. 
 - 🤔 I’m looking for help with identifying exciting internship and research opportunities.
-- 💬 My most recent project was WeWater at Columbia Devfest, a web application that allowed people to report water quality tests in NYC and updated on an OpenBox map in real-time: https://devpost.com/software/wewater
+- 💬 My most recent project was WeWater at Columbia Devfest, a web application that allowed people to report water quality tests in NYC and updated on a Mapbox map in real-time: https://devpost.com/software/wewater
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I do Taekwondo competitively and can square two-digit numbers quickly!
 
