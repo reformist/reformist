@@ -6,7 +6,7 @@
 -->
 I'm Nicholas Djedjos, a software and data analytics engineer interested in the intersection between healthcare, biology, and technology. I'm pursuing my bachelor's in Computer Science with a minor in Biomedical Engineering at Columbia University.
 
-- 🔭 I’m currently working on developing a software application to help doctors spend more time with patients.
+- 🔭 I’m currently working on developing a software application to help solve technical interviews.
 - 🌱 I’m currently learning SQL, dynamic programming algorithms for gene read mapping, and the mathematics behind PCA, t-SNE, and u-MAP. 
 - 🤔 I’m looking for help with identifying exciting internship and research opportunities.
 - 😝 My last internship was at a Columbia MBA-backed start-up, where I integrated the Google Maps API, fixed page errors, and helped deploy the website: https://joinstudentstay.com/
